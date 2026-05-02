@@ -48,4 +48,4 @@ It includes multiple sections like hero banner, featured products, customer revi
 ---
 
 ## 📁 Project Structure
-![Structure](images/Structure.png)
+![Structure](images/structure.png)
