@@ -37,15 +37,25 @@ It includes multiple sections like hero banner, featured products, customer revi
 ## 📸 Screenshots
 
 ### Hero Section
-![Hero Section](images/banner.png)
+![Hero Section](images/hero_section.png)
 
 ### Featured Products
-![Products](images/tea-1.png)
+![Products](images/feature1.png)
+![Products2](images/feature2.png)
 
 ### UI Preview
-![Preview](images/fresh-1.png)
+![Preview](images/Full.png)
 
 ---
 
 ## 📁 Project Structure
 ![Structure](images/structure.png)
+
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository
+```bash
+git clone https://github.com/your-username/tea-house.git
