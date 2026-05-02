@@ -48,15 +48,4 @@ It includes multiple sections like hero banner, featured products, customer revi
 ---
 
 ## 📁 Project Structure
-Tea-House/
-│── index.html
-│── style.css
-│── /images
-│ ├── banner.png
-│ ├── tea-1.png
-│ ├── tea-2.png
-│ ├── tea-3.png
-│ ├── tea-4.png
-│ ├── fresh-1.png
-│ ├── fresh-2.png
-│── README.md
+![Structure](images/Structure.png)
